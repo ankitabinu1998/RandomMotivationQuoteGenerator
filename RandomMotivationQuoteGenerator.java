@@ -1,4 +1,4 @@
-import java.util.*; //imported for Scanner, that takes in user input
+import java.util.*; //imported for Scanner for user input
 public class RandomMotivationQuoteGenerator {
     public static void main (String[] args){
         String [] List1={"You are","Be","Live","Stay"}; //1st word of sentence
